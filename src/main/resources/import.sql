@@ -1,0 +1,1 @@
+INSERT INTO public.cliente(nombre_cli,apellido_cli,direccion_cli,telefono_cli,email_cli) VALUES('Pedro','Cruz','Hidalgo','775-1104895','pedro@gmail.com');
